@@ -1,0 +1,1 @@
+{"name": "Dental Junction", "short_name": "Dental Junct", "start_url": "./index.html", "display": "standalone", "background_color": "#ffffff", "theme_color": "#0056b3", "description": "Official App", "icons": [{"src": "", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}]}
